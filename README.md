@@ -1,0 +1,1 @@
+Classic game BatoBato_Pick vanilla js only
